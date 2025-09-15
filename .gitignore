@@ -48,6 +48,4 @@ Thumbs.db
 # -----------------------------------------------------------------------------
 
 utils/winbindex/
-targets/*
 !targets/mrxsmb/fetch_target.py
-
